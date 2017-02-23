@@ -8,8 +8,7 @@ class App extends Component {
     return (
       <div className="APP">
         <Header />
-        <TeslaBattery>
-        </TeslaBattery>
+        <TeslaBattery />
       </div>
     );
   }
